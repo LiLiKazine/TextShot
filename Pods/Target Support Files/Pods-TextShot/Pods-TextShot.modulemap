@@ -1,0 +1,6 @@
+framework module Pods_TextShot {
+  umbrella header "Pods-TextShot-umbrella.h"
+
+  export *
+  module * { export * }
+}
